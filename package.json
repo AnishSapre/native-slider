@@ -1,0 +1,51 @@
+{
+  "name": "native-slider",
+  "version": "0.1.0",
+  "description": "Apple's UISlider for React Native (Fabric): the iOS 26 liquid glass slider.",
+  "main": "src/index.ts",
+  "react-native": "src/index.ts",
+  "types": "src/index.ts",
+  "source": "src/index.ts",
+  "files": [
+    "src",
+    "ios",
+    "*.podspec",
+    "react-native.config.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "react-native",
+    "ios",
+    "liquid-glass",
+    "ios-26",
+    "fabric",
+    "new-architecture",
+    "slider",
+    "uislider"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnishSapre/native-slider.git"
+  },
+  "homepage": "https://github.com/AnishSapre/native-slider#readme",
+  "bugs": {
+    "url": "https://github.com/AnishSapre/native-slider/issues"
+  },
+  "author": "Anish Sapre",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": ">=0.76.0"
+  },
+  "codegenConfig": {
+    "name": "NativeSliderSpec",
+    "type": "components",
+    "jsSrcsDir": "src",
+    "ios": {
+      "componentProvider": {
+        "NativeSlider": "NativeSliderView"
+      }
+    }
+  }
+}
