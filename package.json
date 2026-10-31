@@ -1,6 +1,6 @@
 {
   "name": "native-slider",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Apple's UISlider for React Native (Fabric): the iOS 26 liquid glass slider.",
   "main": "src/index.ts",
   "react-native": "src/index.ts",
