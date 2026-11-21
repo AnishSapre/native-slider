@@ -1,8 +1,8 @@
 # native-slider
 
-[![npm](https://img.shields.io/npm/v/native-slider.svg)](https://www.npmjs.com/package/native-slider) [![license](https://img.shields.io/npm/l/native-slider.svg)](https://github.com/AnishSapre/native-slider/blob/main/LICENSE)
+[![npm](https://img.shields.io/npm/v/native-slider.svg)](https://www.npmjs.com/package/native-slider) [![license](https://img.shields.io/npm/l/native-slider.svg)](https://github.com/AnishSapre/native-slider/blob/main/LICENSE) [![React Native Directory](https://img.shields.io/badge/React_Native_Directory-listed-61dafb)](https://reactnative.directory/package/native-slider)
 
-**npm:** [native-slider](https://www.npmjs.com/package/native-slider) · **GitHub:** [AnishSapre/native-slider](https://github.com/AnishSapre/native-slider)
+**npm:** [native-slider](https://www.npmjs.com/package/native-slider) · **GitHub:** [AnishSapre/native-slider](https://github.com/AnishSapre/native-slider) · **React Native Directory:** [native-slider](https://reactnative.directory/package/native-slider)
 
 Apple's `UISlider` for React Native's New Architecture. On iOS 26 its thumb is the
 system **liquid glass** knob that magnifies while you drag it.
